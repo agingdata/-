@@ -1,0 +1,167 @@
+ Free RAM: 1882344 kB (222800 cached pss + 1619312 cached kernel + 40232 free)
+ Free RAM: 457128 kB (59852 cached pss + 363584 cached kernel + 33692 free)
+ Free RAM: 415714 kB (120502 cached pss + 261980 cached kernel + 33232 free)
+ Free RAM: 547477 kB (215789 cached pss + 297648 cached kernel + 34040 free)
+ Free RAM: 688076 kB (0 cached pss + 624204 cached kernel + 63872 free)
+ Free RAM: 622718 kB (133798 cached pss + 455124 cached kernel + 33796 free)
+ Free RAM: 504481 kB (120425 cached pss + 332656 cached kernel + 51400 free)
+ Free RAM: 374508 kB (35496 cached pss + 305424 cached kernel + 33588 free)
+ Free RAM: 564021 kB (75805 cached pss + 440068 cached kernel + 48148 free)
+ Free RAM: 357256 kB (88164 cached pss + 235648 cached kernel + 33444 free)
+ Free RAM: 267707 kB (30019 cached pss + 204760 cached kernel + 32928 free)
+ Free RAM: 386557 kB (99909 cached pss + 253112 cached kernel + 33536 free)
+ Free RAM: 307817 kB (66877 cached pss + 207700 cached kernel + 33240 free)
+ Free RAM: 251896 kB (0 cached pss + 219612 cached kernel + 32284 free)
+ Free RAM: 345381 kB (31181 cached pss + 281540 cached kernel + 32660 free)
+ Free RAM: 206768 kB (64892 cached pss + 135356 cached kernel + 6520 free)
+ Free RAM: 284175 kB (70007 cached pss + 180184 cached kernel + 33984 free)
+ Free RAM: 229500 kB (0 cached pss + 191652 cached kernel + 37848 free)
+ Free RAM: 146372 kB (16756 cached pss + 96560 cached kernel + 33056 free)
+ Free RAM: 394226 kB (59414 cached pss + 301848 cached kernel + 32964 free)
+ Free RAM: 337608 kB (39960 cached pss + 263584 cached kernel + 34064 free)
+ Free RAM: 233316 kB (0 cached pss + 200604 cached kernel + 32712 free)
+ Free RAM: 354055 kB (55675 cached pss + 265792 cached kernel + 32588 free)
+ Free RAM: 408639 kB (56079 cached pss + 319352 cached kernel + 33208 free)
+ Free RAM: 627498 kB (91970 cached pss + 476980 cached kernel + 58548 free)
+ Free RAM: 614501 kB (47893 cached pss + 523152 cached kernel + 43456 free)
+ Free RAM: 639484 kB (0 cached pss + 571648 cached kernel + 67836 free)
+ Free RAM: 503787 kB (65875 cached pss + 400900 cached kernel + 37012 free)
+ Free RAM: 514509 kB (71625 cached pss + 400764 cached kernel + 42120 free)
+ Free RAM: 590583 kB (103127 cached pss + 349792 cached kernel + 137664 free)
+ Free RAM: 500562 kB (67758 cached pss + 370460 cached kernel + 62344 free)
+ Free RAM: 125924 kB (0 cached pss + 93404 cached kernel + 32520 free)
+ Free RAM: 60904 kB (0 cached pss + 27800 cached kernel + 33104 free)
+ Free RAM: 740053 kB (132957 cached pss + 543888 cached kernel + 63208 free)
+ Free RAM: 416804 kB (77220 cached pss + 306036 cached kernel + 33548 free)
+ Free RAM: 430865 kB (78789 cached pss + 308564 cached kernel + 43512 free)
+ Free RAM: 551691 kB (68851 cached pss + 295224 cached kernel + 187616 free)
+ Free RAM: 403513 kB (59093 cached pss + 310688 cached kernel + 33732 free)
+ Free RAM: 270840 kB (21580 cached pss + 200496 cached kernel + 48764 free)
+ Free RAM: 400216 kB (0 cached pss + 332828 cached kernel + 67388 free)
+ Free RAM: 91140 kB (0 cached pss + 57856 cached kernel + 33284 free)
+ Free RAM: 492233 kB (198329 cached pss + 257064 cached kernel + 36840 free)
+ Free RAM: 639868 kB (167764 cached pss + 393956 cached kernel + 78148 free)
+ Free RAM: 594686 kB (228466 cached pss + 333136 cached kernel + 33084 free)
+ Free RAM: 640895 kB (225283 cached pss + 363028 cached kernel + 52584 free)
+ Free RAM: 596241 kB (74665 cached pss + 441228 cached kernel + 80348 free)
+ Free RAM: 242815 kB (6163 cached pss + 193164 cached kernel + 43488 free)
+ Free RAM: 356095 kB (8343 cached pss + 286588 cached kernel + 61164 free)
+ Free RAM: 518116 kB (0 cached pss + 453172 cached kernel + 64944 free)
+ Free RAM: 624048 kB (0 cached pss + 268792 cached kernel + 355256 free)
+ Free RAM: 280200 kB (0 cached pss + 246172 cached kernel + 34028 free)
+ Free RAM: 363366 kB (75038 cached pss + 254880 cached kernel + 33448 free)
+ Free RAM: 333404 kB (43080 cached pss + 247448 cached kernel + 42876 free)
+ Free RAM: 441920 kB (24996 cached pss + 356476 cached kernel + 60448 free)
+ Free RAM: 266155 kB (6099 cached pss + 207984 cached kernel + 52072 free)
+ Free RAM: 466403 kB (11323 cached pss + 422516 cached kernel + 32564 free)
+ Free RAM: 145828 kB (0 cached pss + 113668 cached kernel + 32160 free)
+ Free RAM: 353293 kB (47929 cached pss + 260312 cached kernel + 45052 free)
+ Free RAM: 314440 kB (29920 cached pss + 230216 cached kernel + 54304 free)
+ Free RAM: 314809 kB (37585 cached pss + 242384 cached kernel + 34840 free)
+ Free RAM: 243288 kB (24512 cached pss + 185844 cached kernel + 32932 free)
+ Free RAM: 309883 kB (28791 cached pss + 245604 cached kernel + 35488 free)
+ Free RAM: 290928 kB (0 cached pss + 241692 cached kernel + 49236 free)
+ Free RAM: 107500 kB (0 cached pss + 62732 cached kernel + 44768 free)
+ Free RAM: 522912 kB (0 cached pss + 395604 cached kernel + 127308 free)
+ Free RAM: 357429 kB (66229 cached pss + 185836 cached kernel + 105364 free)
+ Free RAM: 301846 kB (14298 cached pss + 225796 cached kernel + 61752 free)
+ Free RAM: 233520 kB (0 cached pss + 96412 cached kernel + 137108 free)
+ Free RAM: 317163 kB (109115 cached pss + 174916 cached kernel + 33132 free)
+ Free RAM: 294951 kB (8711 cached pss + 252352 cached kernel + 33888 free)
+ Free RAM: 266672 kB (23856 cached pss + 209432 cached kernel + 33384 free)
+ Free RAM: 490397 kB (39645 cached pss + 418312 cached kernel + 32440 free)
+ Free RAM: 142676 kB (0 cached pss + 81992 cached kernel + 60684 free)
+ Free RAM: 1254255 kB (53267 cached pss + 822736 cached kernel + 378252 free)
+ Free RAM: 776492 kB (42612 cached pss + 701244 cached kernel + 32636 free)
+ Free RAM: 511887 kB (145631 cached pss + 333996 cached kernel + 32260 free)
+ Free RAM: 438160 kB (113624 cached pss + 285268 cached kernel + 39268 free)
+ Free RAM: 497555 kB (70655 cached pss + 242008 cached kernel + 184892 free)
+ Free RAM: 601316 kB (103516 cached pss + 464248 cached kernel + 33552 free)
+ Free RAM: 364625 kB (68997 cached pss + 248604 cached kernel + 47024 free)
+ Free RAM: 579343 kB (141691 cached pss + 394712 cached kernel + 42940 free)
+ Free RAM: 412268 kB (0 cached pss + 330396 cached kernel + 81872 free)
+ Free RAM: 476857 kB (23249 cached pss + 276940 cached kernel + 176668 free)
+ Free RAM: 422804 kB (27072 cached pss + 354160 cached kernel + 41572 free)
+ Free RAM: 328632 kB (23452 cached pss + 247188 cached kernel + 57992 free)
+ Free RAM: 341672 kB (24868 cached pss + 277684 cached kernel + 39120 free)
+ Free RAM: 554560 kB (211264 cached pss + 259512 cached kernel + 83784 free)
+ Free RAM: 319756 kB (0 cached pss + 285980 cached kernel + 33776 free)
+ Free RAM: 230860 kB (0 cached pss + 167108 cached kernel + 63752 free)
+ Free RAM: 293792 kB (0 cached pss + 261364 cached kernel + 32428 free)
+ Free RAM: 312951 kB (65875 cached pss + 213916 cached kernel + 33160 free)
+ Free RAM: 486493 kB (144801 cached pss + 194464 cached kernel + 147228 free)
+ Free RAM: 423257 kB (91629 cached pss + 289816 cached kernel + 41812 free)
+ Free RAM: 401307 kB (97499 cached pss + 235608 cached kernel + 68200 free)
+ Free RAM: 610057 kB (195289 cached pss + 346836 cached kernel + 67932 free)
+ Free RAM: 602570 kB (218474 cached pss + 318900 cached kernel + 65196 free)
+ Free RAM: 129496 kB (0 cached pss + 95200 cached kernel + 34296 free)
+ Free RAM: 149452 kB (0 cached pss + 107480 cached kernel + 41972 free)
+ Free RAM: 342660 kB (0 cached pss + 279020 cached kernel +	63640 free)
+ Free RAM: 524815 kB (66967 cached pss + 386608 cached kernel + 71240 free)
+ Free RAM: 440180 kB (48152 cached pss + 307516 cached kernel + 84512 free)
+ Free RAM: 394776 kB (95876 cached pss + 230176 cached kernel + 68724 free)
+ Free RAM: 559403 kB (66595 cached pss + 386584 cached kernel + 106224 free)
+ Free RAM: 593925 kB (115577 cached pss + 249968 cached kernel + 228380 free)
+ Free RAM: 455924 kB (94640 cached pss + 302464 cached kernel + 58820 free)
+ Free RAM: 521207 kB (99103 cached pss + 354760 cached kernel + 67344 free)
+ Free RAM: 383355 kB (62247 cached pss + 264984 cached kernel + 56124 free)
+ Free RAM: 404730 kB (66386 cached pss + 252052 cached kernel + 86292 free)
+ Free RAM: 531158 kB (58942 cached pss + 306156 cached kernel + 166060 free)
+ Free RAM: 596887 kB (151595 cached pss + 404356 cached kernel + 40936 free)
+ Free RAM: 500980 kB (95100 cached pss + 355776 cached kernel + 50104 free)
+ Free RAM: 534831 kB (114183 cached pss + 365772 cached kernel + 54876 free)
+ Free RAM: 625389 kB (129941 cached pss + 407740 cached kernel + 87708 free)
+ Free RAM: 464658 kB (119842 cached pss + 300652 cached kernel + 44164 free)
+ Free RAM: 402211 kB (95671 cached pss + 272684 cached kernel + 33856 free)
+ Free RAM: 511495 kB (93295 cached pss + 344280 cached kernel + 73920 free)
+ Free RAM: 468591 kB (103371 cached pss + 303976 cached kernel + 61244 free)
+ Free RAM: 497779 kB (124679 cached pss + 306244 cached kernel + 66856 free)
+ Free RAM: 356949 kB (67089 cached pss + 255140 cached kernel + 34720 free)
+ Free RAM: 497033 kB (125481 cached pss + 320596 cached kernel + 50956 free)
+ Free RAM: 615335 kB (106879 cached pss + 316776 cached kernel + 191680 free)
+ Free RAM: 475302 kB (105078 cached pss + 299468 cached kernel + 70756 free)
+ Free RAM: 584373 kB (91917 cached pss + 303164 cached kernel + 189292 free)
+ Free RAM: 443604 kB (91320 cached pss + 288368 cached kernel + 63916 free)
+ Free RAM: 492774 kB (16354 cached pss + 345588 cached kernel + 130832 free)
+ Free RAM: 466348 kB (73852 cached pss + 321828 cached kernel + 70668 free)
+ Free RAM: 434894 kB (96510 cached pss + 296240 cached kernel + 42144 free)
+ Free RAM: 410409 kB (69849 cached pss + 261548 cached kernel + 79012 free)
+ Free RAM: 336362 kB (72346 cached pss + 230976 cached kernel + 33040 free)
+ Free RAM: 531377 kB (90593 cached pss + 402960 cached kernel + 37824 free)
+ Free RAM: 644702 kB (96618 cached pss + 325988 cached kernel + 222096 free)
+ Free RAM: 159328 kB (0 cached pss + 118328 cached kernel + 41000 free)
+ Free RAM: 464164 kB (0 cached pss + 196788 cached kernel + 267376 free)
+ Free RAM: 621327 kB (110519 cached pss + 335780 cached kernel + 175028 free)
+ Free RAM: 327466 kB (51842 cached pss + 206460 cached kernel + 69164 free)
+ Free RAM: 553544 kB (103484 cached pss + 375688 cached kernel + 74372 free)
+ Free RAM: 438140 kB (67840 cached pss + 286820 cached kernel + 83480 free)
+ Free RAM: 376237 kB (86185 cached pss + 256412 cached kernel + 33640 free)
+ Free RAM: 466918 kB (97374 cached pss + 277876 cached kernel + 91668 free)
+ Free RAM: 436705 kB (78113 cached pss + 299896 cached kernel + 58696 free)
+ Free RAM: 483501 kB (113109 cached pss + 293644 cached kernel + 76748 free)
+ Free RAM: 379866 kB (74274 cached pss + 221524 cached kernel + 84068 free)
+ Free RAM: 496265 kB (85093 cached pss + 351072 cached kernel + 60100 free)
+ Free RAM: 590781 kB (100877 cached pss + 397572 cached kernel + 92332 free)
+ Free RAM: 442693 kB (97265 cached pss + 276920 cached kernel + 68508 free)
+ Free RAM: 422111 kB (51055 cached pss + 309320 cached kernel + 61736 free)
+ Free RAM: 474670 kB (99762 cached pss + 335504 cached kernel + 39404 free)
+ Free RAM: 590578 kB (67742 cached pss + 259784 cached kernel + 263052 free)
+ Free RAM: 390610 kB (51002 cached pss + 291128 cached kernel + 48480 free)
+ Free RAM: 504673 kB (128429 cached pss + 308016 cached kernel + 68228 free)
+ Free RAM: 515461 kB (52989 cached pss + 365872 cached kernel + 96600 free)
+ Free RAM: 406243 kB (67231 cached pss + 209668 cached kernel + 129344 free)
+ Free RAM: 516036 kB (69192 cached pss + 392132 cached kernel + 54712 free)
+ Free RAM: 418108 kB (48700 cached pss + 280100 cached kernel + 89308 free)
+ Free RAM: 502272 kB (101628 cached pss + 340836 cached kernel + 59808 free)
+ Free RAM: 413141 kB (83541 cached pss + 296644 cached kernel + 32956 free)
+ Free RAM: 459489 kB (91173 cached pss + 333948 cached kernel + 34368 free)
+ Free RAM: 538670 kB (126422 cached pss + 314632 cached kernel + 97616 free)
+ Free RAM: 397038 kB (51386 cached pss + 306884 cached kernel + 38768 free)
+ Free RAM: 539697 kB (149305 cached pss + 306132 cached kernel + 84260 free)
+ Free RAM: 536312 kB (131792 cached pss + 325704 cached kernel + 78816 free)
+ Free RAM: 415032 kB (52528 cached pss + 254928 cached kernel + 107576 free)
+ Free RAM: 515987 kB (105259 cached pss + 314572 cached kernel + 96156 free)
+ Free RAM: 661486 kB (41450 cached pss + 572880 cached kernel + 47156 free)
+ Free RAM: 148196 kB (0 cached pss + 114652 cached kernel + 33544 free)
+ Free RAM: 446090 kB (53550 cached pss + 316652 cached kernel + 75888 free)
+  Free RAM: 509928 kB (111064 cached pss + 274376 cached kernel + 124488 free) Free RAM: 471943 kB (71047 cached pss + 279368 cached kernel + 121528 free) Free RAM: 476770 kB (57486 cached pss + 327468 cached kernel + 91816 free) Free RAM: 454432 kB (85496 cached pss + 273180 cached kernel + 95756 free) Free RAM: 451028 kB (75416 cached pss + 289212 cached kernel + 86400 free) Free RAM: 449124 kB (101024 cached pss + 301352 cached kernel + 46748 free) Free RAM: 396329 kB (89949 cached pss + 249100 cached kernel + 57280 free) Free RAM: 502357 kB (119029 cached pss + 243984 cached kernel + 139344 free) Free RAM: 797114 kB (171526 cached pss + 541900 cached kernel + 83688 free) Free RAM: 717187 kB (99647 cached pss + 490240 cached kernel + 127300 free) Free RAM: 790690 kB (62606 cached pss + 580640 cached kernel + 147444 free) Free RAM: 421755 kB (96639 cached pss + 236912 cached kernel + 88204 free) Free RAM: 627552 kB (50684 cached pss + 404832 cached kernel + 172036 free) Free RAM: 482900 kB (158400 cached pss + 249636 cached kernel + 74864 free) Free RAM: 586077 kB (68181 cached pss + 364272 cached kernel + 153624 free) Free RAM: 544647 kB (88267 cached pss + 315156 cached kernel + 141224 free) Free RAM: 399719 kB (57963 cached pss + 242692 cached kernel + 99064 free) Free RAM: 491080 kB (62108 cached pss + 310808 cached kernel + 118164 free) Free RAM: 486883 kB (156307 cached pss + 242664 cached kernel + 87912 free) Free RAM: 491235 kB (42235 cached pss + 372864 cached kernel + 76136 free) Free RAM: 801205 kB (48509 cached pss + 588956 cached kernel + 163740 free) Free RAM: 635104 kB (132052 cached pss + 281576 cached kernel + 221476 free) Free RAM: 574737 kB (65785 cached pss + 242848 cached kernel + 266104 free) Free RAM: 623088 kB (68572 cached pss + 443912 cached kernel + 110604 free) Free RAM: 420338 kB (16106 cached pss + 328888 cached kernel + 75344 free) Free RAM: 419904 kB (68132 cached pss + 251352 cached kernel + 100420 free) Free RAM: 723309 kB (131309 cached pss + 465548 cached kernel + 126452 free) Free RAM: 457499 kB (80899 cached pss + 263940 cached kernel + 112660 free) Free RAM: 493382 kB (112238 cached pss + 257404 cached kernel + 123740 free) Free RAM: 442524 kB (83956 cached pss + 283652 cached kernel + 74916 free) Free RAM: 529649 kB (15017 cached pss + 392612 cached kernel + 122020 free) Free RAM: 542483 kB (90475 cached pss + 321328 cached kernel + 130680 free) Free RAM: 505461 kB (15633 cached pss + 342164 cached kernel + 147664 free) Free RAM: 724318 kB (76654 cached pss + 418100 cached kernel + 229564 free) Free RAM: 979156 kB (57464 cached pss + 666188 cached kernel + 255504 free) Free RAM: 1015363 kB (90563 cached pss + 395360 cached kernel + 529440 free) Free RAM: 931887 kB (114127 cached pss + 589452 cached kernel + 228308 free) Free RAM: 769299 kB (78147 cached pss + 491932 cached kernel + 199220 free) Free RAM: 590322 kB (128518 cached pss + 315164 cached kernel + 146640 free) Free RAM: 493389 kB (62405 cached pss + 362824 cached kernel + 68160 free) Free RAM: 510073 kB (56545 cached pss + 279724 cached kernel + 173804 free) Free RAM: 453112 kB (0 cached pss + 337468 cached kernel + 115644 free) Free RAM: 484027 kB (66451 cached pss + 363224 cached kernel + 54352 free) Free RAM: 633382 kB (55494 cached pss + 379576 cached kernel + 198312 free) Free RAM: 394125 kB (10013 cached pss + 234052 cached kernel + 150060 free) Free RAM: 493403 kB (10135 cached pss + 173448 cached kernel + 309820 free) Free RAM: 367513 kB (118029 cached pss + 177664 cached kernel + 71820 free) Free RAM: 470958 kB (71790 cached pss + 331452 cached kernel + 67716 free) Free RAM: 378839 kB (108431 cached pss + 192660 cached kernel + 77748 free) Free RAM: 448584 kB (75728 cached pss + 243548 cached kernel + 129308 free) Free RAM: 480961 kB (38305 cached pss + 302148 cached kernel + 140508 free) Free RAM: 450703 kB (148139 cached pss + 217624 cached kernel + 84940 free) Free RAM: 433189 kB (75073 cached pss + 259756 cached kernel + 98360 free) Free RAM: 496492 kB (85132 cached pss + 298512 cached kernel + 112848 free) Free RAM: 453503 kB (72223 cached pss + 257312 cached kernel + 123968 free) Free RAM: 421354 kB (60822 cached pss + 262544 cached kernel + 97988 free) Free RAM: 409762 kB (145502 cached pss + 188140 cached kernel + 76120 free) Free RAM: 524706 kB (90426 cached pss + 266408 cached kernel + 167872 free) Free RAM: 323617 kB (14993 cached pss + 206656 cached kernel + 101968 free) Free RAM: 522679 kB (136675 cached pss + 219704 cached kernel + 166300 free) Free RAM: 554652 kB (66696 cached pss + 336260 cached kernel + 151696 free) Free RAM: 538467 kB (52887 cached pss + 262648 cached kernel + 222932 free) Free RAM: 446005 kB (55077 cached pss + 267288 cached kernel + 123640 free) Free RAM: 358205 kB (90897 cached pss + 234768 cached kernel + 32540 free) Free RAM: 342300 kB (0 cached pss + 234128 cached kernel + 108172 free) Free RAM: 443354 kB (91798 cached pss + 274268 cached kernel + 77288 free) Free RAM: 379620 kB (37800 cached pss + 235480 cached kernel + 106340 free) Free RAM: 364360 kB (0 cached pss + 269888 cached kernel + 94472 free) Free RAM: 456755 kB (86067 cached pss + 307276 cached kernel + 63412 free) Free RAM: 688100 kB (79828 cached pss + 320764 cached kernel + 287508 free) Free RAM: 543514 kB (13278 cached pss + 319440 cached kernel + 210796 free) Free RAM: 433040 kB (134256 cached pss + 240776 cached kernel + 58008 free) Free RAM: 375313 kB (24653 cached pss + 243968 cached kernel + 106692 free) Free RAM: 461924 kB (46264 cached pss + 262092 cached kernel + 153568 free) Free RAM: 391858 kB (78982 cached pss + 231752 cached kernel + 81124 free) Free RAM: 361317 kB (53301 cached pss + 248984 cached kernel + 59032 free) Free RAM: 551104 kB (137064 cached pss + 263796 cached kernel + 150244 free) Free RAM: 586990 kB (45366 cached pss + 481388 cached kernel + 60236 free) Free RAM: 468292 kB (35896 cached pss + 295276 cached kernel + 137120 free) Free RAM: 422693 kB (68121 cached pss + 210120 cached kernel + 144452 free) Free RAM: 374676 kB (79184 cached pss + 201660 cached kernel + 93832 free) Free RAM: 433884 kB (28860 cached pss + 301024 cached kernel + 104000 free) Free RAM: 393875 kB (28379 cached pss + 232796 cached kernel + 132700 free) Free RAM: 459178 kB (94678 cached pss + 325468 cached kernel + 39032 free) Free RAM: 325374 kB (28842 cached pss + 190392 cached kernel + 106140 free) Free RAM: 324537 kB (43913 cached pss + 240372 cached kernel + 40252 free) Free RAM: 437283 kB (86503 cached pss + 235604 cached kernel + 115176 free) Free RAM: 390534 kB (13510 cached pss + 192800 cached kernel + 184224 free) Free RAM: 347834 kB (118470 cached pss + 182880 cached kernel + 46484 free) Free RAM: 450180 kB (0 cached pss + 356780 cached kernel + 93400 free) Free RAM: 415068 kB (0 cached pss + 364428 cached kernel + 50640 free) Free RAM: 454603 kB (145871 cached pss + 251748 cached kernel + 56984 free) Free RAM: 447768 kB (78776 cached pss + 208940 cached kernel + 160052 free) Free RAM: 331250 kB (22202 cached pss + 226912 cached kernel + 82136 free) Free RAM: 448427 kB (58239 cached pss + 303316 cached kernel + 86872 free) Free RAM: 312612 kB (29468 cached pss + 203032 cached kernel + 80112 free) Free RAM: 223316 kB (0 cached pss + 189516 cached kernel + 33800 free) Free RAM: 272868 kB (0 cached pss + 124376 cached kernel + 148492 free) Free RAM: 496843 kB (68215 cached pss + 205812 cached kernel + 222816 free) Free RAM: 365628 kB (40060 cached pss + 257280 cached kernel + 68288 free) Free RAM: 299419 kB (44179 cached pss + 213336 cached kernel + 41904 free) Free RAM: 324992 kB (66460 cached pss + 206692 cached kernel + 51840 free) Free RAM: 435565 kB (6429 cached pss + 204232 cached kernel + 224904 free) Free RAM: 401314 kB (39646 cached pss + 206052 cached kernel + 155616 free) Free RAM: 350376 kB (0 cached pss + 237264 cached kernel + 113112 free) Free RAM: 498514 kB (104214 cached pss + 239164 cached kernel + 155136 free) Free RAM: 290996 kB (46816 cached pss + 177028 cached kernel + 67152 free) Free RAM: 292484 kB (0 cached pss + 158656 cached kernel + 133828 free) Free RAM: 219648 kB (0 cached pss + 154772 cached kernel + 64876 free) Free RAM: 475552 kB (0 cached pss + 247884 cached kernel + 227668 free) Free RAM: 394390 kB (28622 cached pss + 256656 cached kernel + 109112 free) Free RAM: 330930 kB (25798 cached pss + 234076 cached kernel + 71056 free) Free RAM: 461356 kB (0 cached pss + 271924 cached kernel + 189432 free) Free RAM: 453649 kB (89433 cached pss + 181656 cached kernel + 182560 free) Free RAM: 277440 kB (0 cached pss + 180716 cached kernel + 96724 free) Free RAM: 490890 kB (73250 cached pss + 268616 cached kernel + 149024 free) Free RAM: 398312 kB (88092 cached pss + 222772 cached kernel + 87448 free) Free RAM: 262338 kB (13438 cached pss + 214616 cached kernel + 34284 free) Free RAM: 221200 kB (0 cached pss + 172692 cached kernel + 48508 free) Free RAM: 389168 kB (0 cached pss + 238212 cached kernel + 150956 free) Free RAM: 282192 kB (0 cached pss + 180832 cached kernel + 101360 free) Free RAM: 311808 kB (0 cached pss + 184144 cached kernel + 127664 free) Free RAM: 668636 kB (0 cached pss + 428520 cached kernel + 240116 free) Free RAM: 547048 kB (13448 cached pss + 327864 cached kernel + 205736 free) Free RAM: 417561 kB (79309 cached pss + 217904 cached kernel + 120348 free) Free RAM: 524906 kB (36170 cached pss + 290028 cached kernel + 198708 free) Free RAM: 497542 kB (24842 cached pss + 261524 cached kernel + 211176 free) Free RAM: 433545 kB (71529 cached pss + 177720 cached kernel + 184296 free) Free RAM: 184368 kB (0 cached pss + 102960 cached kernel + 81408 free) Free RAM: 344226 kB (34094 cached pss + 227940 cached kernel + 82192 free) Free RAM: 587335 kB (103823 cached pss + 350584 cached kernel + 132928 free) Free RAM: 370591 kB (59879 cached pss + 230416 cached kernel + 80296 free) Free RAM: 287812 kB (38420 cached pss + 198700 cached kernel + 50692 free) Free RAM: 379017 kB (72345 cached pss + 198820 cached kernel + 107852 free) Free RAM: 201724 kB (0 cached pss + 162412 cached kernel + 39312 free) Free RAM: 339691 kB (39063 cached pss + 206176 cached kernel + 94452 free) Free RAM: 277256 kB (0 cached pss + 110248 cached kernel + 167008 free) Free RAM: 374617 kB (14201 cached pss + 212772 cached kernel + 147644 free) Free RAM: 575567 kB (75123 cached pss + 302688 cached kernel + 197756 free) Free RAM: 535820 kB (0 cached pss + 330964 cached kernel + 204856 free) Free RAM: 355603 kB (42379 cached pss + 193336 cached kernel + 119888 free) Free RAM: 405588 kB (61132 cached pss + 291388 cached kernel + 53068 free) Free RAM: 480119 kB (82415 cached pss + 220084 cached kernel + 177620 free) Free RAM: 463214 kB (43718 cached pss + 272620 cached kernel + 146876 free) Free RAM: 1033270 kB (202206 cached pss + 533640 cached kernel + 297424 free) Free RAM: 914416 kB (110860 cached pss + 143120 cached kernel + 660436 free) Free RAM: 978301 kB (216469 cached pss + 530140 cached kernel + 231692 free) Free RAM: 1062378 kB (135078 cached pss + 726556 cached kernel + 200744 free) Free RAM: 1064093 kB (129105 cached pss + 652588 cached kernel + 282400 free) Free RAM: 817916 kB (184256 cached pss + 485364 cached kernel + 148296 free) Free RAM: 713856 kB (152200 cached pss + 376504 cached kernel + 185152 free) Free RAM: 974360 kB (169844 cached pss + 582912 cached kernel + 221604 free) Free RAM: 995739 kB (256659 cached pss + 597248 cached kernel + 141832 free) Free RAM: 824197 kB (223125 cached pss + 379628 cached kernel + 221444 free) Free RAM: 414438 kB (167778 cached pss + 182860 cached kernel + 63800 free) Free RAM: 569148 kB (47812 cached pss + 326160 cached kernel + 195176 free) Free RAM: 371870 kB (39866 cached pss + 213308 cached kernel + 118696 free) Free RAM: 681568 kB (252560 cached pss + 310832 cached kernel + 118176 free) Free RAM: 489757 kB (128857 cached pss + 263132 cached kernel + 97768 free) Free RAM: 334374 kB (27906 cached pss + 213488 cached kernel + 92980 free) Free RAM: 528338 kB (236726 cached pss + 212276 cached kernel + 79336 free) Free RAM: 644239 kB (123843 cached pss + 438740 cached kernel + 81656 free) Free RAM: 627578 kB (158994 cached pss + 315644 cached kernel + 152940 free) Free RAM: 684760 kB (210572 cached pss + 330548 cached kernel + 143640 free) Free RAM: 600285 kB (110017 cached pss + 198144 cached kernel + 292124 free) Free RAM: 474196 kB (97400 cached pss + 241528 cached kernel + 135268 free) Free RAM: 554712 kB (122804 cached pss + 290736 cached kernel + 141172 free) Free RAM: 466105 kB (52709 cached pss + 302868 cached kernel + 110528 free) Free RAM: 700185 kB (78825 cached pss + 387688 cached kernel + 233672 free) Free RAM: 403930 kB (39990 cached pss + 288192 cached kernel + 75748 free) Free RAM: 640083 kB (199959 cached pss + 376752 cached kernel + 63372 free) Free RAM: 453423 kB (61943 cached pss + 265728 cached kernel + 125752 free) Free RAM: 452547 kB (84631 cached pss + 176380 cached kernel + 191536 free) Free RAM: 507261 kB (24061 cached pss + 289956 cached kernel + 193244 free) Free RAM: 302931 kB (28459 cached pss + 218100 cached kernel + 56372 free) Free RAM: 246684 kB (0 cached pss + 164560 cached kernel + 82124 free) Free RAM: 295588 kB (0 cached pss + 197380 cached kernel + 98208 free) Free RAM: 535941 kB (35673 cached pss + 274992 cached kernel + 225276 free) Free RAM: 448404 kB (40052 cached pss + 282356 cached kernel + 125996 free) Free RAM: 458672 kB (91088 cached pss + 203536 cached kernel + 164048 free) Free RAM: 400694 kB (44038 cached pss + 207948 cached kernel + 148708 free) Free RAM: 545070 kB (37574 cached pss + 299208 cached kernel + 208288 free) Free RAM: 412162 kB (32290 cached pss + 250740 cached kernel + 129132 free) Free RAM: 249384 kB (0 cached pss + 173300 cached kernel + 76084 free) Free RAM: 526231 kB (137643 cached pss + 299208 cached kernel + 89380 free) Free RAM: 358388 kB (0 cached pss + 244344 cached kernel + 114044 free) Free RAM: 413565 kB (37213 cached pss + 212576 cached kernel + 163776 free) Free RAM: 414477 kB (58661 cached pss + 239488 cached kernel + 116328 free) Free RAM: 621934 kB (89354 cached pss + 360784 cached kernel + 171796 free) Free RAM: 387568 kB (0 cached pss + 219944 cached kernel + 167624 free) Free RAM: 393358 kB (61538 cached pss + 240080 cached kernel + 91740 free) Free RAM: 332576 kB (0 cached pss + 220440 cached kernel + 112136 free)
